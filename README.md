@@ -78,7 +78,7 @@ O banco possui as seguintes entidades principais:
 
 ### Modelo Conceitual
 
-- [Diagrama Modelo] (Diagrama_modelo_ecommerce.png)
+![Diagrama Modelo] (Diagrama_modelo_ecommerce.png)
 
 ### Modelo Lógico
 
