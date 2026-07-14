@@ -71,6 +71,7 @@ O banco possui as seguintes entidades principais:
 ✔ Relacionamento entre clientes e pagamentos
 
 ✔ Relacionamento entre pedidos e pagamentos
+
 ---
 
 ## Modelagem
