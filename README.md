@@ -1,6 +1,8 @@
 </>Markdown
 # 🛒 projeto_DB_E-commerce_tecnologia
-Este é um sistema de Banco de Dados para um e-commerce de produtos de técnologia desenvolvidos para em MySQL como projeto de estudos.
+
+Este é um sistema de Banco de Dados para um e-commerce de produtos de técnologia desenvolvidos em MySQL como projeto de estudos.
+
 # 🛒 Banco de Dados - E-commerce de Tecnologia
 
 ## 📌 Objetivo
@@ -26,7 +28,9 @@ Este projeto tem como objetivo demonstrar conhecimentos em:
 
 ---
 
-## Estrutura do Banco
+## 📂 Estrutura do Projeto
+
+---
 
 O banco possui as seguintes entidades principais:
 
@@ -78,7 +82,7 @@ O banco possui as seguintes entidades principais:
 
 ### Modelo Conceitual
 </>Markdown
-- [Diagrama Modelo] (Diagrama_modelo_ecommerce.png)
+- ![Diagrama Modelo] (Diagrama_modelo_ecommerce.png)
 
 ### Modelo Lógico
 
