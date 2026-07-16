@@ -82,11 +82,10 @@ O banco possui as seguintes entidades principais:
 
 ### Modelo Conceitual
 </>Markdown
-- ![Diagrama Modelo] (Diagrama_modelo_ecommerce.png)
+- ![Diagrama Modelo](Diagrama_modelo_ecommerce.png)
 
 ### Modelo Lógico
 
-*<img width="1189" height="1170" alt="Diagrama_Ecommerce" src="https://github.com/user-attachments/assets/3a964026-69fe-4248-a74d-d97045844780" />
 *
 
 ### Modelo Físico
