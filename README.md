@@ -81,10 +81,12 @@ O banco possui as seguintes entidades principais:
 ## Modelagem
 
 ### Modelo Conceitual
+
 </>Markdown
 - [Diagrama Modelo](Modelo-logico/Diagrama_modelo_ecommerce.png)
 
 ### Modelo Lógico
+
 
 *
 
