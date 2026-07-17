@@ -92,6 +92,7 @@ O banco possui as seguintes entidades principais:
 
 ### Modelo Físico
 
+- [Cenário Ecommerce](Modelo-fisico/Cenario_modelo_Ecommerce.sql)
 Disponível na pasta:
 
 ```
