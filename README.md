@@ -94,11 +94,15 @@ O banco possui as seguintes entidades principais:
 
 ### Modelo Físico
 
--  [Estrutura DB Ecommerce](Modelo-fisico/DB_Ecommerce.sql)
+- [Estrutura DB Ecommerce](Modelo-fisico/DB_Ecommerce.sql)
 
 ### Inserções
 
-[Dados Inseridos]()
+[Dados Inseridos](Inserts/Inserção_dos_dados.sql)
+
+## Consultas
+
+- [Consultas no Banco de Dados]()
 Disponível na pasta:
 
 ```
