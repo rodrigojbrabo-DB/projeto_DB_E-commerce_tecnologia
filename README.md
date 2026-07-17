@@ -102,7 +102,7 @@ O banco possui as seguintes entidades principais:
 
 ### Consultas
 
-- [Consultas no Banco de Dados](Inserts/Inserção_dos_dados.sql)
+- [Consultas no Banco de Dados](Consultas/Consulta_banco_Encommece.sql)
   
 Disponível na pasta:
 
