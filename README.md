@@ -82,7 +82,6 @@ O banco possui as seguintes entidades principais:
 
 ### Modelo Conceitual
 
-</>Markdown
 - [Diagrama Modelo](Modelo-Conceitual/Diagrama_modelo_ecommerce.png)
 
 ### Modelo Lógico
@@ -94,7 +93,12 @@ O banco possui as seguintes entidades principais:
 - [Estrutura Modelo Ecommerce](Modelo-fisico/Cenario_modelo_Ecommerce.sql)
 
 ### Modelo Físico
--  [Estrutura DB Ecommerce]()
+
+-  [Estrutura DB Ecommerce](Modelo-fisico/DB_Ecommerce.sql)
+
+### Inserções
+
+[Dados Inseridos]()
 Disponível na pasta:
 
 ```
