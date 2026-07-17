@@ -98,7 +98,7 @@ O banco possui as seguintes entidades principais:
 
 ### Inserções
 
-[Dados Inseridos](Inserts/Inserção_dos_dados.sql)
+- [Dados Inseridos](Inserts/Inserção_dos_dados.sql)
 
 ### Consultas
 
