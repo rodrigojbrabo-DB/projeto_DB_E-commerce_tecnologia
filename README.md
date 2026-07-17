@@ -137,9 +137,10 @@ O projeto possui consultas utilizando:
 ```
 modelo-conceitual/
 modelo-logico/
+modelo-fisico-conceitual
 modelo-fisico/
 consultas/
-inserts/
+inserções/
 documentacao/
 ```
 
