@@ -88,11 +88,13 @@ O banco possui as seguintes entidades principais:
 ### Modelo Lógico
 
 - [Diagrama_Ecommerce](Modelo-logico/Diagrama_Ecommerce.png)
-*
+
+### Modelo Físico Conceitual
+
+- [Estrutura Modelo Ecommerce](Modelo-fisico/Cenario_modelo_Ecommerce.sql)
 
 ### Modelo Físico
-
-- [Cenário Ecommerce](Modelo-fisico/Cenario_modelo_Ecommerce.sql)
+-  [Cena]
 Disponível na pasta:
 
 ```
