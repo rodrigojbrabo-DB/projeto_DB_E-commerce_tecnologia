@@ -140,7 +140,6 @@ O projeto possui consultas utilizando:
 
 ---
 ---
-
 ## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
@@ -154,7 +153,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 - Consultas SQL avançadas
 
 ---
-
 ## Autor
 
 Rodrigo Brabo
