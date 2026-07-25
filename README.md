@@ -13,7 +13,7 @@ Este projeto tem como objetivo demonstrar conhecimentos em:
 - Modelagem Conceitual
 - Modelagem Lógica
 - Modelagem Física
-- SQL
+- SQL 
 - Relacionamentos entre tabelas
 - Consultas SQL
 - Integridade Referencial
@@ -56,7 +56,7 @@ O banco possui as seguintes entidades principais:
 
 ✔ Cadastro de Produtos
 
-✔ 
+✔ Cadastro de Fornecedores
 
 ✔ Cadastro de Vendedores
 
