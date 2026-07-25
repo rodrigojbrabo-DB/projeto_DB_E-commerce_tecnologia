@@ -84,7 +84,7 @@ O banco possui as seguintes entidades principais:
 
 - [Consultas no Banco de Dados](Consultas/Consulta_banco_Encommece.sql)
 
- ### Inserções
+### Inserções
 
 - [Dados Inseridos](Inserts/Inserção_dos_dados.sql)
 
@@ -92,7 +92,7 @@ O banco possui as seguintes entidades principais:
 
 - [Diagrama Modelo](Modelo-Conceitual/Diagrama_modelo_ecommerce.png)
 
-- ### Modelo Físico Conceitual
+### Modelo Físico Conceitual
 
 - [Estrutura Modelo Ecommerce](Modelo-fisico/Cenario_modelo_Ecommerce.sql)
 
