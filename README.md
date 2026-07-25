@@ -127,7 +127,7 @@ O projeto possui consultas utilizando:
 - Funções de agregação
 
 ---
-
+---
 ## Estrutura das Pastas
 
 ```
@@ -140,7 +140,7 @@ O projeto possui consultas utilizando:
 - documentacao/
 
 ```
-
+---
 ---
 
 ## Aprendizados
