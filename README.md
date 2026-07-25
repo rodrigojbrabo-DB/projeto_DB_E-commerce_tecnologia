@@ -52,19 +52,19 @@ O banco possui as seguintes entidades principais:
 
 ## Funcionalidades
 
-✔ Cadastro de clientes
+✔ Cadastro de Clientes
 
-✔ Cadastro de produtos
+✔ Cadastro de Produtos
 
 ✔ Cadastro de Fornecedores
 
 ✔ Cadastro de Vendedores
 
-✔ Controle de estoque
+✔ Controle de Estoque
 
-✔ Registro de pedidos
+✔ Registro de Pedidos
 
-✔ Controle de pagamentos
+✔ Controle de Pagamentos
 
 ✔ Relacionamento entre produtos e fornecedores
 
