@@ -130,7 +130,6 @@ O projeto possui consultas utilizando:
 ---
 ## Estrutura das Pastas
 
-```
 - consultas
 - inserções
 - modelo-conceitual
