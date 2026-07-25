@@ -84,7 +84,7 @@ O banco possui as seguintes entidades principais:
 
 - [Consultas no Banco de Dados](Consultas/Consulta_banco_Encommece.sql)
 
-- ### Inserções
+ ### Inserções
 
 - [Dados Inseridos](Inserts/Inserção_dos_dados.sql)
 
