@@ -131,13 +131,13 @@ O projeto possui consultas utilizando:
 ## Estrutura das Pastas
 
 ```
-- consultas/
-- inserções/
-- modelo-conceitual/
-- modelo-fisico/
+- consultas
+- inserções
+- modelo-conceitual
+- modelo-fisico
 - modelo-fisico-conceitual
-- modelo-logico/
-- documentacao/
+- modelo-logico
+- documentacao
 
 ```
 ---
