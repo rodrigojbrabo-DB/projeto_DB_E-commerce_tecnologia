@@ -105,16 +105,6 @@ O banco possui as seguintes entidades principais:
 - [Diagrama_Ecommerce](Modelo-logico/Diagrama_Ecommerce.png)
 
 
-
-
-
-
-  
-Disponível na pasta:
-
-```
-[Uploading DB_Ecommerce.sql…]()
-
 ```
 
 ---
