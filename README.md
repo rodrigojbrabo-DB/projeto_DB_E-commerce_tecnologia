@@ -80,29 +80,33 @@ O banco possui as seguintes entidades principais:
 
 ## Modelagem
 
+### Consultas
+
+- [Consultas no Banco de Dados](Consultas/Consulta_banco_Encommece.sql)
+
+- ### Inserções
+
+- [Dados Inseridos](Inserts/Inserção_dos_dados.sql)
+
 ### Modelo Conceitual
 
 - [Diagrama Modelo](Modelo-Conceitual/Diagrama_modelo_ecommerce.png)
+
+- ### Modelo Físico Conceitual
+
+- [Estrutura Modelo Ecommerce](Modelo-fisico/Cenario_modelo_Ecommerce.sql)
 
 ### Modelo Lógico
 
 - [Diagrama_Ecommerce](Modelo-logico/Diagrama_Ecommerce.png)
 
-### Modelo Físico Conceitual
-
-- [Estrutura Modelo Ecommerce](Modelo-fisico/Cenario_modelo_Ecommerce.sql)
-
 ### Modelo Físico
 
 - [Estrutura DB Ecommerce](Modelo-fisico/DB_Ecommerce.sql)
 
-### Inserções
 
-- [Dados Inseridos](Inserts/Inserção_dos_dados.sql)
 
-### Consultas
 
-- [Consultas no Banco de Dados](Consultas/Consulta_banco_Encommece.sql)
   
 Disponível na pasta:
 
