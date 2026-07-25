@@ -56,7 +56,7 @@ O banco possui as seguintes entidades principais:
 
 ✔ Cadastro de produtos
 
-✔ Cadastro de fornecedores
+✔ Cadastro de Fornecedores
 
 ✔ Cadastro de Vendedores
 
