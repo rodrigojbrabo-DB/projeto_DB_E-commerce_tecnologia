@@ -138,7 +138,6 @@ O projeto possui consultas utilizando:
 - modelo-logico
 - documentacao
 
-```
 ---
 ---
 
