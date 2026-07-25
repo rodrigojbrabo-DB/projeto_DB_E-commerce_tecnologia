@@ -66,15 +66,15 @@ O banco possui as seguintes entidades principais:
 
 ✔ Controle de Pagamentos
 
-✔ Relacionamento entre produtos e fornecedores
+✔ Relacionamento entre Produtos e Fornecedores
+    
+✔ Relacionamento entre Pedidos e Produtos
 
-✔ Relacionamento entre pedidos e produtos
+✔ Relacionamento entre Produtos e Vendedores
+      
+✔ Relacionamento entre Clientes e Pagamentos
 
-✔ Relacionamento entre Produtos e vendedores
-
-✔ Relacionamento entre clientes e pagamentos
-
-✔ Relacionamento entre pedidos e pagamentos
+✔ Relacionamento entre Pedidos e Pagamentos
 
 ---
 
